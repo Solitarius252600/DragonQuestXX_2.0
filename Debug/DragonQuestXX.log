@@ -1,0 +1,9 @@
+﻿  Player.cpp
+  Monster.cpp
+f:\ゲームプログラミング\minirpg\dragonquestxx_2.0\monster.cpp(45): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+f:\ゲームプログラミング\minirpg\dragonquestxx_2.0\monster.cpp(47): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  main.cpp
+  Atlas.cpp
+  コードを生成中...
+  DragonQuestXX.vcxproj -> F:\ゲームプログラミング\MiniRPG\DragonQuestXX_2.0\Debug\DragonQuestXX.exe
+  DragonQuestXX.vcxproj -> F:\ゲームプログラミング\MiniRPG\DragonQuestXX_2.0\Debug\DragonQuestXX.pdb (Full PDB)
