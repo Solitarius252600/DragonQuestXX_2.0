@@ -39,6 +39,7 @@ void CMonster::setHP(int h)
 	hp_ = h;
 }
 
+//
 void CMonster::showState()
 {
 	cout << name_;
